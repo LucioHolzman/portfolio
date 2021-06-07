@@ -1,0 +1,13 @@
+.container-reset {
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+    max-height: 200px;
+    .restart-reset {
+        cursor: pointer;
+        background-color: transparent;
+        border: none;
+    }
+}
+
+

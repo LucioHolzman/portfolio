@@ -1,0 +1,15 @@
+.container-post {
+    max-height: 200px;
+    max-width: 450px;
+    height: 100%;
+    
+    overflow: hidden;
+    text-overflow: ellipsis;
+    .title {
+        margin-bottom: 10px;
+    }
+
+    .post {
+
+    }
+}
